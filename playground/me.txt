@@ -1,5 +1,0 @@
-{{#user}}
-Name: Sagar Singh Bisht
-Skills: HTML, CSS, JS, ReactJs
-Email: sagarssb2003@gmail.com
-{{/user}}
